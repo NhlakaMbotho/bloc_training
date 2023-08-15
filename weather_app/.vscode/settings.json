@@ -1,0 +1,15 @@
+{
+  "files.exclude": {
+    "**/.*": true,
+    "**/ios": true,
+    "**/android": true,
+    "**/linux": true,
+    "**/windows": true,
+    "**/macos": true,
+    "**/analysis_options.yaml": true,
+    "*.iml": true,
+    "CHANGELOG.md": true,
+    "**/*.lock": true,
+    "LICENSE": true
+  }
+}
